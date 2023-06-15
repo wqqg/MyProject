@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimationEventBehaviour" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\AnimationEventBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPGDemo.Character.CharacterAnimation" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPGDemo.Character.CharacterInputController" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAABAAAAAAAAAAAAAEAIAAAAAAAACIA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterInputController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPGDemo.Character.CharacterMotor" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEKAAAAAAAAAAEAAAABAQAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterMotor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Equipment">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAQAIAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\Equipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPGDemo.Character.PlayerStatus">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAABAAACAAAAAAABAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\PlayerStatus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ARPGDemo.Character.MosterStatus">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\MosterStatus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ARPGDemo.Character.CharacterStatus">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAgAAEAAAQIAAAAAAAAAACgCAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterStatus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ARPGDemo.Character.IOnDamager">
+    <Position X="3" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\IOnDamager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
